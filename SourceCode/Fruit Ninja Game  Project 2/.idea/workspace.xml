@@ -1,0 +1,956 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Fruit Ninja Game  Project 2:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="40a60dd1-2c36-4509-879e-c8944790b34e" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/View/HomeScene.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Model/ObjectType.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Model/GameObject.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/View/Level3Scene.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2601">
+              <caret line="178" selection-start-line="178" selection-end-line="178" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/View/FirstScene.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/View/Control.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Controller/NewGameState.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Model/DangerousBomb.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Controller/Game.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/View/FruitNinjaGame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/View/LevelBasics.java" />
+        <option value="$PROJECT_DIR$/src/View/FruitsImages.java" />
+        <option value="$PROJECT_DIR$/src/Controller/FatalBomb.java" />
+        <option value="$PROJECT_DIR$/src/Controller/Special1.java" />
+        <option value="$PROJECT_DIR$/src/Controller/Special2.java" />
+        <option value="$PROJECT_DIR$/src/Controller/ObjectType.java" />
+        <option value="$PROJECT_DIR$/src/Controller/ObjFactory.java" />
+        <option value="$PROJECT_DIR$/src/Controller/GameObject.java" />
+        <option value="$PROJECT_DIR$/src/Controller/Bomb.java" />
+        <option value="$PROJECT_DIR$/src/Controller/Fruit.java" />
+        <option value="$PROJECT_DIR$/src/Controller/State.java" />
+        <option value="$PROJECT_DIR$/src/View/Handel.java" />
+        <option value="$PROJECT_DIR$/src/View/Control.java" />
+        <option value="$PROJECT_DIR$/src/View/Command.java" />
+        <option value="$PROJECT_DIR$/src/Controller/DangerousBomb.java" />
+        <option value="$PROJECT_DIR$/src/Controller/NewGameState.java" />
+        <option value="$PROJECT_DIR$/src/Controller/Reset.java" />
+        <option value="$PROJECT_DIR$/src/Controller/ResumeState.java" />
+        <option value="$PROJECT_DIR$/src/Controller/score.txt" />
+        <option value="$PROJECT_DIR$/src/Controller/BestScore.java" />
+        <option value="$PROJECT_DIR$/src/Controller/Level1BestScore.java" />
+        <option value="$PROJECT_DIR$/src/Controller/Level2BestScore.java" />
+        <option value="$PROJECT_DIR$/src/Controller/Level3BestScore.java" />
+        <option value="$PROJECT_DIR$/src/View/Sound.java" />
+        <option value="$PROJECT_DIR$/src/View/SoundOffCommand.java" />
+        <option value="$PROJECT_DIR$/src/View/SoundOnCommand.java" />
+        <option value="$PROJECT_DIR$/src/View/SwordImage.java" />
+        <option value="$PROJECT_DIR$/src/View/FirstScene.java" />
+        <option value="$PROJECT_DIR$/src/View/HomeScene.java" />
+        <option value="$PROJECT_DIR$/src/Controller/DefaultGameState.java" />
+        <option value="$PROJECT_DIR$/src/Controller/Level.java" />
+        <option value="$PROJECT_DIR$/src/Controller/Easy.java" />
+        <option value="$PROJECT_DIR$/src/Controller/GameActions.java" />
+        <option value="$PROJECT_DIR$/src/Controller/Hard.java" />
+        <option value="$PROJECT_DIR$/src/Controller/Medium.java" />
+        <option value="$PROJECT_DIR$/src/View/Level3Scene.java" />
+        <option value="$PROJECT_DIR$/src/View/Level2Scene.java" />
+        <option value="$PROJECT_DIR$/src/View/Level1Scene.java" />
+        <option value="$PROJECT_DIR$/src/Controller/Game.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="830" />
+    <option name="y" value="80" />
+    <option name="width" value="880" />
+    <option name="height" value="880" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Fruit Ninja Game  Project 2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fruit Ninja Game  Project 2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Fruit Ninja Game  Project 2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fruit Ninja Game  Project 2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Fruit Ninja Game  Project 2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fruit Ninja Game  Project 2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Fruit Ninja Game  Project 2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fruit Ninja Game  Project 2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Fruit Ninja Game  Project 2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fruit Ninja Game  Project 2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="View" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/NetBeansProjects/test" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Fruit Ninja Game  Project 2\src\View\Sound" />
+      <recent name="E:\Fruit Ninja Game  Project 2\src\View\Images" />
+      <recent name="E:\Fruit Ninja Game  Project 2\src\View" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Fruit Ninja Game  Project 2\src\Controller" />
+      <recent name="E:\Fruit Ninja Game  Project 2\src\View\Sound" />
+      <recent name="E:\Fruit Ninja Game  Project 2\src\View\Images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="View.FruitNinjaGame" />
+      <module name="Fruit Ninja Game  Project 2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40a60dd1-2c36-4509-879e-c8944790b34e" name="Default Changelist" comment="" />
+      <created>1558136243077</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558136243077</updated>
+      <workItem from="1558471295273" duration="5832000" />
+      <workItem from="1558478424277" duration="80000" />
+      <workItem from="1558478562592" duration="61000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5973000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15637584" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="UI Designer" order="6" />
+      <window_info id="simpleUML" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.10738255" type="SLIDING" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.89261746" side_tool="true" weight="0.32909605" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49932885" weight="0.32909605" />
+      <window_info anchor="bottom" id="Sequence" order="11" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Maven" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.24966443" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/View/LevelBasics.java" />
+    <entry file="file://$PROJECT_DIR$/src/View/FruitsImages.java" />
+    <entry file="file://$PROJECT_DIR$/src/View/Images/cuttedBanana.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/View/Handel.java" />
+    <entry file="file://$PROJECT_DIR$/src/Controller/Reset.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+          <folding>
+            <element signature="e#378#379#0" expanded="true" />
+            <element signature="e#407#408#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Controller/ResumeState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="13" column="44" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+          <folding>
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#343#344#0" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Controller/score.txt" />
+    <entry file="file://$PROJECT_DIR$/src/Controller/Level2BestScore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#209#218#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/jre/lib/rt.jar!/java/lang/Override.class" />
+    <entry file="file://$PROJECT_DIR$/src/Controller/Level3BestScore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-388">
+          <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/View/SoundOnCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Model/Special1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Model/Special2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Model/Bomb.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Model/FatalBomb.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Model/Fruit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Controller/Level.java" />
+    <entry file="file://$PROJECT_DIR$/src/View/Level2Scene.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3128">
+          <caret line="187" column="12" selection-start-line="187" selection-start-column="12" selection-end-line="187" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Controller/DefaultGameState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Controller/Easy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Controller/GameActions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Controller/Medium.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Controller/Level1BestScore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/View/Level1Scene.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3332">
+          <caret line="199" column="22" selection-start-line="199" selection-start-column="22" selection-end-line="199" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Controller/Hard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/Controller">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>Controller</OriginalElement>
+          <nodes>
+            <node x="242.74999999999997" y="0.0">Controller.State</node>
+            <node x="0.0" y="375.0">Controller.Easy</node>
+            <node x="86.5" y="149.0">Controller.Level1BestScore</node>
+            <node x="203.0" y="375.0">Controller.Hard</node>
+            <node x="0.0" y="77.0">Controller.DefaultGameState</node>
+            <node x="283.0" y="77.0">Controller.ResumeState</node>
+            <node x="0.0" y="226.0">Controller.Level3BestScore</node>
+            <node x="181.0" y="77.0">Controller.Reset</node>
+            <node x="173.0" y="226.0">Controller.Level2BestScore</node>
+            <node x="76.0" y="298.0">Controller.GameActions</node>
+            <node x="428.0" y="77.0">Controller.NewGameState</node>
+            <node x="0.0" y="447.0">Controller.Game</node>
+            <node x="322.0" y="298.0">Controller.High Scores</node>
+            <node x="94.0" y="375.0">Controller.Medium</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="Controller.DefaultGameState" target="Controller.State">
+              <point x="0.0" y="-13.5" />
+              <point x="80.5" y="47.0" />
+              <point x="252.99999999999997" y="47.0" />
+              <point x="-30.75" y="13.5" />
+            </edge>
+            <edge source="Controller.Easy" target="Controller.GameActions">
+              <point x="0.0" y="-13.5" />
+              <point x="37.0" y="350.0" />
+              <point x="96.83333333333334" y="350.0" />
+              <point x="-41.66666666666666" y="13.5" />
+            </edge>
+            <edge source="Controller.Hard" target="Controller.GameActions">
+              <point x="0.0" y="-13.5" />
+              <point x="240.0" y="350.0" />
+              <point x="180.16666666666666" y="350.0" />
+              <point x="41.66666666666666" y="13.5" />
+            </edge>
+            <edge source="Controller.Level2BestScore" target="Controller.Level1BestScore">
+              <point x="0.0" y="-13.5" />
+              <point x="249.5" y="201.0" />
+              <point x="201.25" y="201.0" />
+              <point x="38.25" y="13.5" />
+            </edge>
+            <edge source="Controller.Level3BestScore" target="Controller.Level1BestScore">
+              <point x="0.0" y="-13.5" />
+              <point x="76.5" y="201.0" />
+              <point x="124.75" y="201.0" />
+              <point x="-38.25" y="13.5" />
+            </edge>
+            <edge source="Controller.Medium" target="Controller.GameActions">
+              <point x="0.0" y="-13.5" />
+              <point x="0.0" y="13.5" />
+            </edge>
+            <edge source="Controller.NewGameState" target="Controller.State">
+              <point x="0.0" y="-13.5" />
+              <point x="494.0" y="47.0" />
+              <point x="314.5" y="47.0" />
+              <point x="30.75" y="13.5" />
+            </edge>
+            <edge source="Controller.Reset" target="Controller.State">
+              <point x="0.0" y="-13.5" />
+              <point x="222.0" y="57.0" />
+              <point x="273.5" y="57.0" />
+              <point x="-10.25" y="13.5" />
+            </edge>
+            <edge source="Controller.ResumeState" target="Controller.State">
+              <point x="-2.8421709430404007E-14" y="-13.5" />
+              <point x="345.49999999999994" y="57.0" />
+              <point x="294.0" y="57.0" />
+              <point x="10.25" y="13.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-132.0" y="150.0" />
+          <SelectedNodes>
+            <node>Controller.NewGameState</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/Model">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>Model</OriginalElement>
+          <nodes>
+            <node x="0.0" y="154.0">Model.DangerousBomb</node>
+            <node x="0.0" y="226.0">Model.ObjFactory</node>
+            <node x="104.75" y="77.0">Model.Bomb</node>
+            <node x="163.0" y="226.0">Model.ObjectType</node>
+            <node x="412.0" y="154.0">Model.Special1</node>
+            <node x="289.0" y="154.0">Model.Special2</node>
+            <node x="361.0" y="77.0">Model.Fruit</node>
+            <node x="206.5" y="0.0">Model.GameObject</node>
+            <node x="159.0" y="154.0">Model.FatalBomb</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="Model.DangerousBomb" target="Model.Bomb">
+              <point x="0.0" y="-13.5" />
+              <point x="69.5" y="129.0" />
+              <point x="123.25" y="129.0" />
+              <point x="-18.5" y="13.5" />
+            </edge>
+            <edge source="Model.Fruit" target="Model.GameObject">
+              <point x="0.0" y="-13.5" />
+              <point x="402.0" y="52.0" />
+              <point x="295.0" y="52.0" />
+              <point x="29.5" y="13.5" />
+            </edge>
+            <edge source="Model.Special2" target="Model.Fruit">
+              <point x="0.0" y="-13.5" />
+              <point x="340.5" y="129.0" />
+              <point x="381.5" y="129.0" />
+              <point x="-20.5" y="13.5" />
+            </edge>
+            <edge source="Model.Bomb" target="Model.GameObject">
+              <point x="0.0" y="-13.5" />
+              <point x="141.75" y="52.0" />
+              <point x="236.0" y="52.0" />
+              <point x="-29.5" y="13.5" />
+            </edge>
+            <edge source="Model.FatalBomb" target="Model.Bomb">
+              <point x="0.0" y="-13.5" />
+              <point x="214.0" y="129.0" />
+              <point x="160.25" y="129.0" />
+              <point x="18.5" y="13.5" />
+            </edge>
+            <edge source="Model.Special1" target="Model.Fruit">
+              <point x="0.0" y="-13.5" />
+              <point x="463.5" y="129.0" />
+              <point x="422.5" y="129.0" />
+              <point x="20.5" y="13.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-155.0" y="39.0" />
+          <SelectedNodes>
+            <node>Model.FatalBomb</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/View">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>View</OriginalElement>
+          <nodes>
+            <node x="0.0" y="149.0">View.FruitNinjaGame</node>
+            <node x="0.0" y="221.0">View.Level1Scene</node>
+            <node x="0.0" y="365.0">View.SwordImage</node>
+            <node x="173.0" y="77.0">View.SoundOnCommand</node>
+            <node x="170.0" y="221.0">View.Level3Scene</node>
+            <node x="0.0" y="293.0">View.Level2Scene</node>
+            <node x="163.0" y="365.0">View.FirstScene</node>
+            <node x="170.0" y="293.0">View.Sound</node>
+            <node x="113.25" y="0.0">View.Command</node>
+            <node x="0.0" y="77.0">View.SoundOffCommand</node>
+            <node x="191.0" y="149.0">View.Images</node>
+            <node x="326.0" y="365.0">View.HomeScene</node>
+            <node x="0.0" y="437.0">View.Control</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="View.SoundOffCommand" target="View.Command">
+              <point x="0.0" y="-13.5" />
+              <point x="76.5" y="52.0" />
+              <point x="137.25" y="52.0" />
+              <point x="-24.0" y="13.5" />
+            </edge>
+            <edge source="View.SoundOnCommand" target="View.Command">
+              <point x="0.0" y="-13.5" />
+              <point x="246.0" y="52.0" />
+              <point x="185.25" y="52.0" />
+              <point x="24.0" y="13.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-194.0" y="145.0" />
+          <SelectedNodes>
+            <node>View.Level1Scene</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/View/SoundOffCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Model/ObjFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Controller/State.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/View/Command.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/View/SwordImage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/View/Sound.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/View/HomeScene.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Model/ObjectType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Model/GameObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/View/Level3Scene.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2601">
+          <caret line="178" selection-start-line="178" selection-end-line="178" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/View/FirstScene.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/View/Control.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Controller/NewGameState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Model/DangerousBomb.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/View/FruitNinjaGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Controller/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>Fruit Ninja Game  Project 2:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="simpleUML.UMLToolWindowPlugin">
+    <General>
+      <option name="birdViewUpdateDelay" value="2000" />
+      <option name="defaultFileLocation" value="file://$PROJECT_DIR$/../" />
+    </General>
+    <Classdiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="defaultFieldsExpanded" value="false" />
+      <option name="defaultContructorsExpanded" value="false" />
+      <option name="defaultMethodsExpanded" value="false" />
+      <option name="showParameters" value="true" />
+      <option name="showTooltip" value="true" />
+      <option name="showReturnValues" value="true" />
+      <option name="longModifier" value="true" />
+      <option name="implementsBehaviour" value="1" />
+      <option name="extendsBehaviour" value="1" />
+      <option name="compartmentBehaviour" value="1" />
+      <option name="interfaceBackgroundColor" value="-6494306" />
+      <option name="abstractClassBackgroundColor" value="-1580132" />
+      <option name="classBackgroundColor" value="-6508057" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="quickSourceLinkColor" value="-16776961" />
+      <option name="quickDiagramLinkColor" value="-8454144" />
+      <option name="drawDecorations" value="false" />
+      <option name="hideFieldList" value="" />
+      <option name="showFieldList" value="" />
+      <option name="hideConstructorList" value="" />
+      <option name="showConstructorList" value="" />
+      <option name="hideMethodList" value="" />
+      <option name="showMethodList" value="" />
+      <option name="minimumFigureSize" value="0,0" />
+    </Classdiagram>
+    <Dependencydiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="0" />
+    </Dependencydiagram>
+    <Packagediagram>
+      <option name="diagramTitleFont" value="SansSerif,0,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="packageBackgroundColor" value="-4144960" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="2" />
+    </Packagediagram>
+  </component>
+</project>
